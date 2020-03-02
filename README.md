@@ -1,6 +1,7 @@
 # 1
     Ta September till Maj + juni och multiplicera med 1250
     Ta December och addera till Sep till Maj talet
+    om födelsedag inte är Juli-September plussa på 650
     
     Mutiplicera med 3
 
